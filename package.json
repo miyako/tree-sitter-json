@@ -7,16 +7,27 @@
     "parser",
     "json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyako/tree-sitter-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miyako/tree-sitter-json/issues"
+  },
+  "homepage": "https://github.com/miyako/tree-sitter-json#readme",
   "author": "Max Brunsfeld",
   "license": "MIT",
   "dependencies": {
-    "nan": "^2.0.0"
+    "nan": "^2.14.1",
+    "npm-check-updates": "^6.0.1"
   },
   "devDependencies": {
     "tree-sitter-cli": "^0.16.7"
   },
   "scripts": {
     "build": "tree-sitter generate && node-gyp build",
-    "test": "tree-sitter test"
-  }
+    "test": "tree-sitter test",
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true
 }
