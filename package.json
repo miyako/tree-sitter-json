@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-json",
+  "name": "tree-sitter-4djson",
   "version": "0.16.1",
   "description": "JSON grammar for tree-sitter",
   "main": "index.js",
