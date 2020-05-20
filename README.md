@@ -1,4 +1,4 @@
-tree-sitter-json
+tree-sitter-4djson
 ===========================
 
 Fork of [tree-sitter-json](https://github.com/tree-sitter/tree-sitter-json)
