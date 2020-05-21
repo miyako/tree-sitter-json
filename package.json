@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/miyako/tree-sitter-json.git"
+    "url": "https://github.com/miyako/tree-sitter-4djson.git"
   },
   "bugs": {
-    "url": "https://github.com/miyako/tree-sitter-json/issues"
+    "url": "https://github.com/miyako/tree-sitter-4djson/issues"
   },
-  "homepage": "https://github.com/miyako/tree-sitter-json#readme",
+  "homepage": "https://github.com/miyako/tree-sitter-4djson#readme",
   "author": "Max Brunsfeld",
   "license": "MIT",
   "dependencies": {

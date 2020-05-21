@@ -1,5 +1,5 @@
 module.exports = grammar({
-  name: 'json',
+  name: 'fourdjson',
 
   extras: $ => [
     /\s/
