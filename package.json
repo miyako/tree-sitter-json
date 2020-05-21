@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-4djson",
-  "version": "0.16.4",
+  "version": "0.17.0",
   "description": "JSON grammar for tree-sitter",
   "main": "index.js",
   "keywords": [
